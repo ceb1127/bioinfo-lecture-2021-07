@@ -1,0 +1,3 @@
+BRAF	10
+KRAS	20
+APOE	30	 
